@@ -25,7 +25,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
     // Setup and start animation!
     var typed = new Typed('#element', {
-        strings: ['A Developer!',  'A Designer!', 'AN Analyst!'],
+        strings: ['A Product Manager!',  'A Product Owner!', 'A Product Designer!'],
         typeSpeed: 50,
         backSpeed: 50,
         loop: true
